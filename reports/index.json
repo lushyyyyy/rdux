@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260625-212653-z7us",
+      "title": "General Wagwan",
+      "commanders": [
+        "General Wagwan"
+      ],
+      "dateStart": "2026-06-26T01:26:53.000Z",
+      "dateEnd": "2026-06-26T01:58:47.000Z",
+      "dateLabel": "6/25/2026, 9:26:53 PM - 6/25/2026, 9:58:47 PM",
+      "url": "https://lushyyyyy.github.io/rdux/?report=20260625-212653-z7us",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    }
+  ]
+}
