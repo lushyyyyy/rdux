@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-221553-txr2",
+      "title": "Maximum Brawn",
+      "commanders": [
+        "Maximum Brawn"
+      ],
+      "dateStart": "2026-07-04T02:15:53.000Z",
+      "dateEnd": "2026-07-04T02:55:09.000Z",
+      "dateLabel": "7/3/2026, 10:15:53 PM - 7/3/2026, 10:55:09 PM",
+      "url": "https://lushyyyyy.github.io/rdux/?report=20260703-221553-txr2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260625-212653-z7us",
       "title": "General Wagwan",
       "commanders": [
