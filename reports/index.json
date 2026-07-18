@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-222003-t9x1",
+      "title": "Diamond Squire",
+      "commanders": [
+        "Diamond Squire"
+      ],
+      "dateStart": "2026-07-18T02:20:03.000Z",
+      "dateEnd": "2026-07-18T03:04:45.000Z",
+      "dateLabel": "7/17/2026, 10:20:03 PM - 7/17/2026, 11:04:45 PM",
+      "url": "https://lushyyyyy.github.io/rdux/?report=20260717-222003-t9x1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260703-231231-zps0",
       "title": "Maximum Brawn",
       "commanders": [
